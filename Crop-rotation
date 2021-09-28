@@ -21,7 +21,6 @@ crop = np.arange(0,3,1)                 #Crop variety dimension
 T={0:6, 1:3, 2:6}                       #Period requirements
 minsuit = 0.6                           #minimum suitability
 
-#Indexing =====================================================================
 period =np.arange(0,nperiod,1)          
 coor = np.arange(0,nland,1)
 coor2 = []
